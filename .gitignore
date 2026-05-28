@@ -1,0 +1,19 @@
+# Power BI cache & temp files
+*.pbix.bak
+*.pbiviz
+.pbi/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (nếu có script HM-A)
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Editor
+.vscode/
+.idea/
